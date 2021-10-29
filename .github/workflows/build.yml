@@ -6,6 +6,7 @@ on:
     branches:
       # Push events on crt-consul-migration branch
       - release/1.11.x
+      - crt-migration-1.11.0-betax
 env:
   PKG_NAME: consul
 
